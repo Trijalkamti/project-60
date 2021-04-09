@@ -1,0 +1,44 @@
+.body {
+    text-align: center;
+    background color: #E1BEE7;
+    background-repeat: no-repeat;
+}
+
+. html {
+   scroll-behavior: smooth;
+}
+
+.img {
+    border-radius: 50px;
+    width: 100px;
+}
+
+p {
+    font-size: 18px;
+    color: #6A1B94;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+. img {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+
+. img:hover {
+    transform: scale(0.9);
+}
